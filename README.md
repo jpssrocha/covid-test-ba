@@ -3,7 +3,7 @@
 Script para gerar gráficos do número de casos confirmados, em relação
 ao número de testes realizados por cidade na Bahia usando dados da SESAB.
 
-![demo/figuras/plot_ITABUNA_24-12-2020.png](Exemplo de plot)
+![Exemplo de plot](demo/figuras/plot_ITABUNA_24-12-2020.png)
 
 Na pasta `demo` existe um vídeo explicando a idéia desta ferramenta.
 
