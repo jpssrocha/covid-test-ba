@@ -3,6 +3,8 @@
 Script para gerar gráficos do número de casos confirmados, em relação
 ao número de testes realizados por cidade na Bahia usando dados da SESAB.
 
+Na pasta `demo` existe um vídeo explicando a idéia desta ferramenta.
+
 Os dados devem ser baixados do download de base completa no quadro de
 situação geral da SESAB:
 
@@ -10,6 +12,9 @@ situação geral da SESAB:
 
 O script usa os bases de casos confirmados, casos descartados e casos
 suspeitos e as combina para contar o número de testes realizados.
+
+EDIT: Esses dados não estão sendo fornecidos pela SESAB atualmente 
+(2022-06-21). Na pasta `data` existe a base de dados no dia 24-12-2020.
 
 Tratamento dos dados
 --------------------
